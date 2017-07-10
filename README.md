@@ -6,6 +6,6 @@
 
 笔记内容为思维导图，这里提供了 [MindNode](https://github.com/Latias94/fluent-python-notes/tree/master/notes/mindnode) 和 [PDF](https://github.com/Latias94/fluent-python-notes/tree/master/notes/pdf) 两种不同的格式。
 
-与笔记相关的博文地址在：[《流畅的 Python》读书笔记](frankorz.com/2017/07/01/fluent-python-note/)
+与笔记相关的博文地址在：[《流畅的 Python》读书笔记](http://frankorz.com/2017/07/01/fluent-python-note/)
 
 
